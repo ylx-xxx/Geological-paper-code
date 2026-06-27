@@ -1,0 +1,2 @@
+setting,ckpt,train_samples,val_samples,test_samples,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+fewshot50_rgb,/root/autodl-tmp/q2_extra_ablation/external_sen12_rgb/fewshot_run/checkpoints/best.pth,40,10,210,0.6426281106249443,0.9713652111234836,0.9709844272706397,0.3142717939792488,0.47824470186358725,0.48950055830741684,0.4674949526319123,3296965.0,47090.0,51432.0,45153.0

@@ -1,0 +1,2 @@
+ckpt,channel_mode,in_chans,tta,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+/root/autodl-tmp/q2_extra_ablation/runs/loss_ce/checkpoints/best.pth,full14,14,1,0.683679,0.986301,0.986184,0.381175,0.551957,0.721774,0.446829,12817034.0,42635.0,136927.0,110604.0

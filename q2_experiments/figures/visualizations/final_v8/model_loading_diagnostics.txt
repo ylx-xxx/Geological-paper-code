@@ -1,0 +1,2 @@
+('SwinUPerNetL4S', {'num_classes': 2, 'img_size': 128}, 0, 0, (1, 2, 128, 128), 0)
+('SwinUPerNetL4S', {'num_classes': 2, 'img_size': 128}, 0, 0, (1, 2, 128, 128), 0)

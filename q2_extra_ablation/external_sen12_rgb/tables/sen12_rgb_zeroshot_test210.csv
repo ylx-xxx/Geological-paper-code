@@ -1,0 +1,2 @@
+setting,ckpt,train_samples,val_samples,test_samples,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+zero_shot_rgb,/root/autodl-tmp/q2_extra_ablation/runs/input_rgb/checkpoints/best.pth,0,0,210,0.49824639297649403,0.9709411621093468,0.9709189835067384,0.025573802446249624,0.04987216844408087,0.3035631651977838,0.027167779675904988,3338035.0,6020.0,93961.0,2624.0

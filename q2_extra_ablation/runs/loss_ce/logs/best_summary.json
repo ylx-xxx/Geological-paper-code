@@ -1,0 +1,7 @@
+{
+  "best_epoch": 47,
+  "best_landslide_iou": 0.3696058309651616,
+  "channel_mode": "full14",
+  "patch_init": "mean",
+  "loss_mode": "ce"
+}

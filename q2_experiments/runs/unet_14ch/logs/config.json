@@ -1,0 +1,16 @@
+{
+  "model": "unet",
+  "data_root": "/root/autodl-tmp/datasetss/landslide4Sense",
+  "save_dir": "/root/autodl-tmp/q2_experiments/runs/unet_14ch/checkpoints",
+  "log_dir": "/root/autodl-tmp/q2_experiments/runs/unet_14ch/logs",
+  "epochs": 60,
+  "batch_size": 64,
+  "lr": 0.0003,
+  "min_lr": 1e-06,
+  "weight_decay": 0.05,
+  "num_workers": 8,
+  "amp": 1,
+  "grad_clip": 1.0,
+  "ce_w0": 0.5,
+  "ce_w1": 1.73
+}

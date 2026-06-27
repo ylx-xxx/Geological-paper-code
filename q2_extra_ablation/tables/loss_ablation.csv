@@ -1,0 +1,4 @@
+Variant,Run,Test_mIoU,Landslide_IoU,Landslide_F1,Precision,Recall,Dice,Class_Weight
+CE only,loss_ce,0.683679,0.381175,0.551957,0.721774,0.446829,No,No
+CE + Dice,loss_ce_dice,0.708155,0.432087,0.603436,0.580675,0.628055,Yes,No
+CE + Dice + class weight,input_full14,0.704326,0.42309,0.594608,0.640555,0.554811,Yes,Yes

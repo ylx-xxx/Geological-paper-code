@@ -1,0 +1,7 @@
+Variant,Training_Setting,Test_mIoU,Landslide_IoU,Landslide_F1,Precision,Recall,Conclusion
+Swin-UPerNet without LoveDA,TrainData only,0.6877,0.3916,0.5628,0.5789,0.5476,No source-domain pretraining
+Swin-UPerNet + LoveDA,TrainData only,0.7136,0.4426,0.6136,0.5912,0.6378,LoveDA pretraining improves landslide recognition
+Final V8 TrainVal,TrainData + ValidData,0.7328,0.4793,0.648,0.6357,0.6609,Final selected model
+Continue fine-tuning,TrainVal + further fine-tuning,0.7292,0.4724,0.6417,0.6257,0.6585,Further training causes slight degradation
+Model Soup top4,Checkpoint averaging,0.7315,0.4766,0.6455,0.6426,0.6485,Does not exceed final model
+Weighted Soup alpha=0.95,Weighted checkpoint averaging,0.7327,0.4792,0.6479,0.6356,0.6607,Closest to final model but still lower

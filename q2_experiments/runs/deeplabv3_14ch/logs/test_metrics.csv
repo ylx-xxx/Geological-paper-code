@@ -1,0 +1,2 @@
+Test_mIoU,Test_OA,NonLandslide_IoU,Landslide_IoU,NonLandslide_F1,Landslide_F1,Landslide_Precision,Landslide_Recall,TN,FP,FN,TP,Method,Checkpoint
+0.6992334127426147,0.9835496544837952,0.9833553433418274,0.4151114225387573,0.9916078448295593,0.5866837501525879,0.558204174041748,0.6182255744934082,12738552,121117,94501,153030,DeepLabV3,/root/autodl-tmp/q2_experiments/runs/deeplabv3_14ch/checkpoints/best.pth

@@ -1,0 +1,6 @@
+| Comparison | Baseline_Landslide_IoU | Improved_Landslide_IoU | Absolute_Gain | Relative_Gain_% | Interpretation |
+| --- | --- | --- | --- | --- | --- |
+| Swin + LoveDA vs Swin without LoveDA | 0.3916 | 0.4426 | 0.051 | 13.0235 | Effect of LoveDA source-domain pretraining |
+| Final V8 vs Swin + LoveDA | 0.4426 | 0.4793 | 0.0367 | 8.2919 | Effect of final TrainVal training |
+| Final V8 vs U-Net | 0.446 | 0.4793 | 0.0333 | 7.4664 | Improvement over classical CNN baseline |
+| Final V8 vs DeepLabV3 | 0.4151 | 0.4793 | 0.0642 | 15.4662 | Improvement over dilated CNN baseline |

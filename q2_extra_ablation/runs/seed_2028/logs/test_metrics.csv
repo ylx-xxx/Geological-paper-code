@@ -1,0 +1,2 @@
+ckpt,channel_mode,in_chans,tta,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+/root/autodl-tmp/q2_extra_ablation/runs/seed_2028/checkpoints/best.pth,full14,14,1,0.709858,0.984798,0.984618,0.435097,0.606366,0.593313,0.620007,12754472.0,105197.0,94060.0,153471.0

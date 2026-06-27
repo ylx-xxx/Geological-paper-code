@@ -1,0 +1,2 @@
+ckpt,channel_mode,in_chans,tta,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+/root/autodl-tmp/final_tune_lab/best_pool/current_best.pth,full14,14,1,0.732779,0.986442,0.98627,0.479287,0.647997,0.635664,0.660818,12765916.0,93753.0,83958.0,163573.0

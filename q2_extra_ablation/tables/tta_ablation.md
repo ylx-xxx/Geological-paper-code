@@ -1,0 +1,4 @@
+| Variant | Run | Test_mIoU | Landslide_IoU | Landslide_F1 | Precision | Recall | TTA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Without TTA | tta_off | 0.729980 | 0.473888 | 0.643045 | 0.630511 | 0.656088 | No |
+| With TTA | tta_on | 0.732779 | 0.479287 | 0.647997 | 0.635664 | 0.660818 | Yes |

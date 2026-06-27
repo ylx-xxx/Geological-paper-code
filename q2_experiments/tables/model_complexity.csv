@@ -1,0 +1,5 @@
+Model,Checkpoint,Params_M,Input_Size,Landslide_IoU
+U-Net,/root/autodl-tmp/q2_experiments/runs/unet_14ch/checkpoints/best.pth,7.772,14x128x128,0.446
+DeepLabV3,/root/autodl-tmp/q2_experiments/runs/deeplabv3_14ch/checkpoints/best.pth,39.725,14x128x128,0.4151
+Swin-UPerNet w/o LoveDA,/root/autodl-tmp/q2_experiments/runs/swin_no_loveda/checkpoints/l4s_best.pth,37.543,14x128x128,0.3916
+Ours Final,/root/autodl-tmp/final_tune_lab/best_pool/current_best.pth,37.543,14x128x128,0.4793

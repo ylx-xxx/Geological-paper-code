@@ -1,0 +1,7 @@
+| Method | Train_Setting | Pretraining | Test_mIoU | Landslide_IoU | Landslide_F1 | Landslide_Precision | Landslide_Recall | Note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| U-Net | TrainData only | None | 0.7154 | 0.446 | 0.6169 | 0.5995 | 0.6352 | Classical CNN segmentation baseline |
+| DeepLabV3 | TrainData only | None | 0.6992 | 0.4151 | 0.5867 | 0.5582 | 0.6182 | Dilated CNN segmentation baseline |
+| Swin-UPerNet | TrainData only | No LoveDA | 0.6877 | 0.3916 | 0.5628 | 0.5789 | 0.5476 | Ablation for source-domain pretraining |
+| Swin-UPerNet | TrainData only | LoveDA | 0.7136 | 0.4426 | 0.6136 | 0.5912 | 0.6378 | Source-domain pretrained Swin-UPerNet |
+| Ours Final | TrainData + ValidData | LoveDA | 0.7328 | 0.4793 | 0.648 | 0.6357 | 0.6609 | Final selected model |

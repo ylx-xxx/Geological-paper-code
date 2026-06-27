@@ -1,0 +1,2 @@
+ckpt,channel_mode,in_chans,tta,test_miou,oa,non_iou,landslide_iou,landslide_f1,precision,recall,tn,fp,fn,tp
+/root/autodl-tmp/q2_extra_ablation/runs/input_rgb/checkpoints/best.pth,rgb,3,1,0.691452,0.984764,0.984608,0.398296,0.569688,0.610417,0.534054,12775299.0,84370.0,115336.0,132195.0
