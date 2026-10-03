@@ -1,0 +1,25 @@
+{
+  "Landslide_IoU": 0.4547836414702899,
+  "Landslide_F1": 0.6252251242125032,
+  "Landslide_Precision": 0.5519867600884724,
+  "Landslide_Recall": 0.7208713252077518,
+  "mIoU": 0.7191187935110379,
+  "OA": 0.98367919921875,
+  "TN": 12714842,
+  "FP": 144827,
+  "FN": 69093,
+  "TP": 178438,
+  "samples": 800,
+  "confusion_matrix": [
+    [
+      12714842,
+      144827
+    ],
+    [
+      69093,
+      178438
+    ]
+  ],
+  "sample_global_counts_match": true,
+  "seconds": 3.444867856800556
+}

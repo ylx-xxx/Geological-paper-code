@@ -1,0 +1,41 @@
+{
+  "checkpoint_sha256": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65",
+  "split": "test",
+  "channels": "full14",
+  "channel_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "normalization": "finite_zero_p1_p99_patch_band_zscore_v1",
+  "tta_views": 3,
+  "batch_size": 64,
+  "amp": true,
+  "channels_last": true,
+  "checkpoint_load": "strict",
+  "sample_count": 800,
+  "purpose": "fixed-checkpoint evaluation, no selection",
+  "versions": {
+    "torch": "2.7.0+cu128",
+    "torchvision": "0.22.0+cu128",
+    "timm": "1.0.27",
+    "numpy": "2.4.6",
+    "h5py": "3.16.0"
+  },
+  "source_sha256": {
+    "reproducibility/evaluate.py": "83e54d36417b02eb5e531b2a6738e037d130f0a1d50157b5088405287f0623fc",
+    "reproducibility/core.py": "94de11e0e68333870f2c41eea662ccf0d7d8e7a635584a0a2c4f7ff4cdd255d4",
+    "train_l4s_qz/model.py": "8d91a7b20f08a2d2e9370a9ed21c9ef78d46555a6fb5ebc319acd0fd9b667955"
+  }
+}

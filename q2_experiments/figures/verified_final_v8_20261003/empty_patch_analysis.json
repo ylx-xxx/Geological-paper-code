@@ -1,0 +1,8 @@
+{
+  "samples": 264,
+  "samples_with_false_alarms": 51,
+  "false_positive_pixels": 4977,
+  "background_pixels": 4325376,
+  "pixel_false_positive_rate": 0.0011506514115767045,
+  "note": "Foreground IoU and F1 are not assigned a detection-quality score for empty-ground-truth patches."
+}

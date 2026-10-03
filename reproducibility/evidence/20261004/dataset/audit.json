@@ -1,0 +1,27 @@
+{
+  "splits": {
+    "train": {
+      "samples": 3799,
+      "positive_pixels": 1442790,
+      "valid_pixels": 62242816,
+      "positive_fraction": 0.023180024502747434,
+      "empty_patches": 1568
+    },
+    "val": {
+      "samples": 245,
+      "positive_pixels": 68745,
+      "valid_pixels": 4014080,
+      "positive_fraction": 0.01712596659757653,
+      "empty_patches": 99
+    },
+    "test": {
+      "samples": 800,
+      "positive_pixels": 247531,
+      "valid_pixels": 13107200,
+      "positive_fraction": 0.018885116577148437,
+      "empty_patches": 264
+    }
+  },
+  "exact_cross_split_duplicates": [],
+  "spatial_independence": "NOT established by content hashes; georeferencing/event metadata required"
+}

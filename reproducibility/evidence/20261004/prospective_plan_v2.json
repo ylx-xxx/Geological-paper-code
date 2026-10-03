@@ -1,0 +1,20 @@
+{
+  "channels": [
+    "first3_legacy",
+    "rgb"
+  ],
+  "seed": 42,
+  "epochs": 60,
+  "selection_split": "val",
+  "selection_metric": "Landslide_IoU",
+  "training_budget_seconds": 6900,
+  "purpose": "paired channel-definition correction; no final-model replacement",
+  "relative_position_bias": "bicubic resize for source/target grid mismatch",
+  "source_sha256": {
+    "audit_dataset.py": "362ce197dd47660711a761e8a5ca89ac6159edeefb4961124381222acd096eee",
+    "core.py": "94de11e0e68333870f2c41eea662ccf0d7d8e7a635584a0a2c4f7ff4cdd255d4",
+    "evaluate.py": "83e54d36417b02eb5e531b2a6738e037d130f0a1d50157b5088405287f0623fc",
+    "train.py": "acef48d163fcb0fa8460eb254762ee0c5c91f07ffa13a65681e97467bb4ff584",
+    "__init__.py": "28fa8ee60022de8cd29345aeb80e4e1fe5a8a0c76c324af760525fae7e567f05"
+  }
+}

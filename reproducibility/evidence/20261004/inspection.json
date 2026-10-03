@@ -1,0 +1,224 @@
+{
+  "checkpoints": [
+    {
+      "path": "checkpoints/train_l4s_qz_v8_trainval/last.pth",
+      "sha256": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65",
+      "bytes": 449127777,
+      "keys": [
+        "model",
+        "optimizer",
+        "scheduler",
+        "epoch",
+        "best_miou",
+        "best_landslide_iou"
+      ],
+      "metadata": {
+        "epoch": 60,
+        "best_miou": 0.8379844985611515,
+        "best_landslide_iou": 0.6826409923554009
+      },
+      "optimizer_groups": [
+        {
+          "lr": 1e-06,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.05,
+          "amsgrad": false,
+          "maximize": false,
+          "foreach": null,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "decoupled_weight_decay": true,
+          "initial_lr": 3e-05
+        }
+      ],
+      "scheduler": {
+        "T_max": 60,
+        "eta_min": 1e-06,
+        "base_lrs": [
+          3e-05
+        ],
+        "last_epoch": 60,
+        "_step_count": 61,
+        "_get_lr_called_within_step": false,
+        "_last_lr": [
+          1e-06
+        ]
+      }
+    },
+    {
+      "path": "checkpoints/train_l4s_qz/l4s_best.pth",
+      "sha256": "1699fc7d875e64a5390f7d133c2a3bf071857eb8f0a8cc31a9428a52f1c4d38e",
+      "bytes": 449169897,
+      "keys": [
+        "model",
+        "optimizer",
+        "scheduler",
+        "epoch",
+        "best_miou",
+        "best_landslide_iou"
+      ],
+      "metadata": {
+        "epoch": 48,
+        "best_miou": 0.7379916737056582,
+        "best_landslide_iou": 0.48765902886007617
+      },
+      "optimizer_groups": [
+        {
+          "lr": 1.641046253317505e-05,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.05,
+          "amsgrad": false,
+          "maximize": false,
+          "foreach": null,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "decoupled_weight_decay": true,
+          "initial_lr": 3e-05
+        }
+      ],
+      "scheduler": {
+        "T_max": 100,
+        "eta_min": 1e-06,
+        "base_lrs": [
+          3e-05
+        ],
+        "last_epoch": 48,
+        "_step_count": 49,
+        "_get_lr_called_within_step": false,
+        "_last_lr": [
+          1.641046253317505e-05
+        ]
+      }
+    },
+    {
+      "path": "q2_extra_ablation/runs/input_full14/checkpoints/best.pth",
+      "sha256": "51075ebf2f3b0ea8ee49a9a3de4bdb8874693bbdb9d2ff87c3af9965ce27be4e",
+      "bytes": 150252354,
+      "keys": [
+        "model",
+        "epoch",
+        "best_landslide_iou",
+        "args"
+      ],
+      "metadata": {
+        "epoch": 15,
+        "best_landslide_iou": 0.48138047426286246,
+        "args": {
+          "data_root": "/root/autodl-tmp/datasetss/landslide4Sense",
+          "save_dir": "/root/autodl-tmp/q2_extra_ablation/runs/input_full14/checkpoints",
+          "log_dir": "/root/autodl-tmp/q2_extra_ablation/runs/input_full14/logs",
+          "loveda_ckpt": "/root/autodl-tmp/checkpoints/train_la_qz/loveda_best.pth",
+          "channel_mode": "full14",
+          "patch_init": "mean",
+          "loss_mode": "ce_dice_cw",
+          "img_size": 128,
+          "num_classes": 2,
+          "epochs": 60,
+          "batch_size": 64,
+          "num_workers": 8,
+          "lr": 3e-05,
+          "min_lr": 1e-06,
+          "weight_decay": 0.05,
+          "label_smoothing": 0.02,
+          "amp": true,
+          "channels_last": true,
+          "grad_clip": 1.0,
+          "val_tta": true,
+          "seed": 42,
+          "use_loveda_pretrain": true,
+          "backbone": "swin_tiny_patch4_window7_224.ms_in1k",
+          "in_chans": 14
+        }
+      }
+    },
+    {
+      "path": "q2_extra_ablation/runs/input_rgb/checkpoints/best.pth",
+      "sha256": "a9f8d090e87b95df9c3f9a596a31d3f6d48a4ac8990ae7453f2d356f4739b069",
+      "bytes": 150184770,
+      "keys": [
+        "model",
+        "epoch",
+        "best_landslide_iou",
+        "args"
+      ],
+      "metadata": {
+        "epoch": 20,
+        "best_landslide_iou": 0.3869312350325009,
+        "args": {
+          "data_root": "/root/autodl-tmp/datasetss/landslide4Sense",
+          "save_dir": "/root/autodl-tmp/q2_extra_ablation/runs/input_rgb/checkpoints",
+          "log_dir": "/root/autodl-tmp/q2_extra_ablation/runs/input_rgb/logs",
+          "loveda_ckpt": "/root/autodl-tmp/checkpoints/train_la_qz/loveda_best.pth",
+          "channel_mode": "rgb",
+          "patch_init": "mean",
+          "loss_mode": "ce_dice_cw",
+          "img_size": 128,
+          "num_classes": 2,
+          "epochs": 60,
+          "batch_size": 64,
+          "num_workers": 8,
+          "lr": 3e-05,
+          "min_lr": 1e-06,
+          "weight_decay": 0.05,
+          "label_smoothing": 0.02,
+          "amp": true,
+          "channels_last": true,
+          "grad_clip": 1.0,
+          "val_tta": true,
+          "seed": 42,
+          "use_loveda_pretrain": true,
+          "backbone": "swin_tiny_patch4_window7_224.ms_in1k",
+          "in_chans": 3
+        }
+      }
+    }
+  ],
+  "csv_matching_main_train_only": [
+    "logs/train_l4s_qz/test_metrics_best_miou.csv",
+    "logs/train_la_qz/metrics.csv",
+    "q2_experiments/tables/improvement_summary.csv",
+    "q2_experiments/tables/main_comparison_table.csv",
+    "q2_experiments/tables/main_comparison_table_full.csv",
+    "q2_experiments/tables/training_strategy_ablation.csv",
+    "q2_experiments/runs/swin_loveda/logs/test_metrics.csv"
+  ],
+  "h5_sample_schema": {
+    "keys": [
+      "img"
+    ],
+    "attributes": {},
+    "datasets": {
+      "img": {
+        "shape": [
+          128,
+          128,
+          14
+        ],
+        "attrs": {}
+      }
+    }
+  },
+  "environment": {
+    "torch": "2.7.0+cu128",
+    "torchvision": "0.22.0+cu128",
+    "timm": "1.0.27",
+    "numpy": "2.4.6",
+    "h5py": "3.16.0",
+    "pandas": "3.0.3",
+    "Pillow": "11.2.1",
+    "matplotlib": "3.10.3",
+    "tqdm": "4.66.2"
+  },
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "cuda": "12.8"
+}

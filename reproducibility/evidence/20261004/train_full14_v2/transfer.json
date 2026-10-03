@@ -1,0 +1,13 @@
+{
+  "direct_or_adapted_keys": 237,
+  "adapted_keys": [
+    "encoder.patch_embed.proj.weight",
+    "encoder.layers_3.blocks.0.attn.relative_position_bias_table",
+    "encoder.layers_3.blocks.1.attn.relative_position_bias_table"
+  ],
+  "new_classifier_keys": [
+    "fuse.2.bias",
+    "fuse.2.weight"
+  ],
+  "source_sha256": "42c8a2967afe258bc8cc5cabc774e3cc5caefa66e60d62fcc9b8751424eca319"
+}

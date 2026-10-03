@@ -859,4 +859,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit("Legacy visualization path is disabled: it omitted final-model normalization. Use reproducibility.evaluate and the verified figures documented in docs/ARTIFACT_STATUS.md.")

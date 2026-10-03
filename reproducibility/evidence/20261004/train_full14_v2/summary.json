@@ -1,0 +1,11 @@
+{
+  "completed_epochs": 60,
+  "planned_epochs": 60,
+  "status": "completed",
+  "best_validation_iou": 0.4785349981422894,
+  "best_epoch": 18,
+  "selection_split": "val",
+  "seconds": 358.53570469096303,
+  "test_evaluated": false,
+  "checkpoint_sha256": "2e5e4bf1180e346046b4aa1a54b2f6ad067ac969d8a7989d75177a26435a7e25"
+}

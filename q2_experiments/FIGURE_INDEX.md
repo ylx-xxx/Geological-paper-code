@@ -1,3 +1,5 @@
+> Audit update (2026-10-04): legacy sample-level, area-group and qualitative outputs below are superseded. See [artifact status](../docs/ARTIFACT_STATUS.md) and `figures/verified_final_v8_20261003/`. Framework and aggregate comparison plots are separate artifacts.
+
 # Q2 Experiment Figure Index
 
 ## Framework

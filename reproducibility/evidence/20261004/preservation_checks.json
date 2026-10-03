@@ -1,0 +1,30 @@
+{
+  "original_checkpoints": [
+    {
+      "path": "checkpoints/train_l4s_qz_v8_trainval/last.pth",
+      "sha256": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65",
+      "unchanged": true
+    },
+    {
+      "path": "checkpoints/train_l4s_qz/l4s_best.pth",
+      "sha256": "1699fc7d875e64a5390f7d133c2a3bf071857eb8f0a8cc31a9428a52f1c4d38e",
+      "unchanged": true
+    },
+    {
+      "path": "q2_extra_ablation/runs/input_full14/checkpoints/best.pth",
+      "sha256": "51075ebf2f3b0ea8ee49a9a3de4bdb8874693bbdb9d2ff87c3af9965ce27be4e",
+      "unchanged": true
+    },
+    {
+      "path": "q2_extra_ablation/runs/input_rgb/checkpoints/best.pth",
+      "sha256": "a9f8d090e87b95df9c3f9a596a31d3f6d48a4ac8990ae7453f2d356f4739b069",
+      "unchanged": true
+    },
+    {
+      "path": "checkpoints/train_la_qz/loveda_best.pth",
+      "sha256": "42c8a2967afe258bc8cc5cabc774e3cc5caefa66e60d62fcc9b8751424eca319",
+      "unchanged": true
+    }
+  ],
+  "gpu_compute_processes": ""
+}

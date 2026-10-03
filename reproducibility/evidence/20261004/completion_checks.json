@@ -1,0 +1,10 @@
+{
+  "complete_training_runs": 3,
+  "epochs_each": 60,
+  "identical_training_validation_manifests": true,
+  "validation_argmax_matches_checkpoints": true,
+  "downloaded_weight_hashes_match": true,
+  "evaluations_with_exact_sample_global_closure": 7,
+  "published_source_matches_recorded_hashes": true,
+  "recorded_training_run_seconds": 1034.9512606337667
+}

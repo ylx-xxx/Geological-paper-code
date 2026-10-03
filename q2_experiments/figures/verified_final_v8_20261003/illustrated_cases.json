@@ -1,0 +1,32 @@
+[
+  {
+    "Sample": "image_1.h5",
+    "IoU": 0.0535714285714285,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  },
+  {
+    "Sample": "image_10.h5",
+    "IoU": 0.0,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  },
+  {
+    "Sample": "image_100.h5",
+    "IoU": null,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  },
+  {
+    "Sample": "image_741.h5",
+    "IoU": 0.8660143018441852,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  },
+  {
+    "Sample": "image_468.h5",
+    "IoU": 0.774818401937046,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  },
+  {
+    "Sample": "image_658.h5",
+    "IoU": 0.1105845181674565,
+    "selection": "Same sample IDs as the previous manuscript illustration; no reselection after corrected inference."
+  }
+]

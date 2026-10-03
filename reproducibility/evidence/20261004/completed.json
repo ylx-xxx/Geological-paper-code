@@ -1,0 +1,22 @@
+{
+  "completed": true,
+  "jobs": [
+    {
+      "job": "train_first3_legacy_v2",
+      "returncode": 0
+    },
+    {
+      "job": "train_rgb_v2",
+      "returncode": 0
+    },
+    {
+      "job": "test_first3_legacy_v2",
+      "returncode": 0
+    },
+    {
+      "job": "test_rgb_v2",
+      "returncode": 0
+    }
+  ],
+  "training_seconds": 700.9479907788336
+}
