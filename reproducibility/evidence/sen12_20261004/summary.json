@@ -1,0 +1,110 @@
+{
+  "created_at_utc": "2026-10-03T20:20:57.046225+00:00",
+  "dataset_revision": "311f426d0e2fa9b532772fbee0641e2f9db6da00",
+  "archives_verified": 3,
+  "retained_samples": 1133,
+  "retained_bytes": 6997828270,
+  "by_archive": {
+    "s2_part01.tar.gz": 500,
+    "s2_part02.tar.gz": 500,
+    "s2_part03.tar.gz": 133
+  },
+  "files_match_extraction_sha256": true,
+  "schema_invalid_samples": 0,
+  "positive_mask_samples": 423,
+  "empty_mask_samples": 710,
+  "official_ld_candidates": 349,
+  "missing_official_candidates": 0,
+  "official_mask_count_mismatches": 0,
+  "official_split_counts": {
+    "train": 223,
+    "test": 71,
+    "val": 55
+  },
+  "exact_spectral_duplicate_groups": 0,
+  "positive_area_overlap_pairs": 0,
+  "notes": {
+    "event_date_absent": 710,
+    "scl_255_quality_unknown": 1133
+  },
+  "variable_extrema": {
+    "B02": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B03": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B04": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B05": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B06": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B07": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B08": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B8A": {
+      "min": 1.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B11": {
+      "min": 27.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "B12": {
+      "min": 7.0,
+      "max": 10000.0,
+      "nonfinite": 0
+    },
+    "DEM": {
+      "min": 352.0,
+      "max": 2143.0,
+      "nonfinite": 0
+    },
+    "MASK": {
+      "min": 0.0,
+      "max": 1.0,
+      "nonfinite": 0
+    },
+    "SCL": {
+      "min": 1.0,
+      "max": 255.0,
+      "nonfinite": 0
+    }
+  },
+  "scl_255_samples": 1133,
+  "scl_255_frames": 3285,
+  "scl_255_policy": "Unknown quality code retained; not corruption or a standard SCL class. No training-frame selection made.",
+  "post_metadata_before_event": 0,
+  "post_metadata_same_day_as_event": 8,
+  "post_metadata_with_scl_255": 0,
+  "all_time_masks_constant": true,
+  "historical_40_10_210_split_recovered": false,
+  "source_code_sha256": {
+    "audit_sen12_subset.py": "c8a5827186bbe2251ac894429126a4b32b45152c1fa441062d0a300153709a03",
+    "prepare_sen12_subset.py": "aec5dfe176fdf3a6539c1da3a969f5c55e38bd3be67de0512e3349e6728cc709"
+  },
+  "seconds": 38.40600000000268
+}

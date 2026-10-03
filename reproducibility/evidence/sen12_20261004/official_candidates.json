@@ -1,0 +1,1747 @@
+{
+  "chimanimani_s2_1002.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1002",
+    "official_positive_pixels": 89
+  },
+  "chimanimani_s2_1003.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1003",
+    "official_positive_pixels": 242
+  },
+  "chimanimani_s2_1005.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1005",
+    "official_positive_pixels": 310
+  },
+  "chimanimani_s2_1006.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1006",
+    "official_positive_pixels": 357
+  },
+  "chimanimani_s2_1029.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1029",
+    "official_positive_pixels": 280
+  },
+  "chimanimani_s2_1061.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1061",
+    "official_positive_pixels": 246
+  },
+  "chimanimani_s2_1072.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1072",
+    "official_positive_pixels": 207
+  },
+  "chimanimani_s2_1088.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1088",
+    "official_positive_pixels": 206
+  },
+  "chimanimani_s2_1091.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1091",
+    "official_positive_pixels": 56
+  },
+  "chimanimani_s2_1093.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1093",
+    "official_positive_pixels": 319
+  },
+  "chimanimani_s2_1094.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1094",
+    "official_positive_pixels": 291
+  },
+  "chimanimani_s2_1115.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1115",
+    "official_positive_pixels": 246
+  },
+  "chimanimani_s2_1116.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1116",
+    "official_positive_pixels": 119
+  },
+  "chimanimani_s2_1121.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1121",
+    "official_positive_pixels": 90
+  },
+  "chimanimani_s2_1125.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1125",
+    "official_positive_pixels": 299
+  },
+  "chimanimani_s2_1128.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1128",
+    "official_positive_pixels": 335
+  },
+  "chimanimani_s2_1129.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1129",
+    "official_positive_pixels": 1573
+  },
+  "chimanimani_s2_1131.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1131",
+    "official_positive_pixels": 247
+  },
+  "chimanimani_s2_1132.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1132",
+    "official_positive_pixels": 210
+  },
+  "chimanimani_s2_1146.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1146",
+    "official_positive_pixels": 79
+  },
+  "chimanimani_s2_1147.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1147",
+    "official_positive_pixels": 418
+  },
+  "chimanimani_s2_1148.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1148",
+    "official_positive_pixels": 431
+  },
+  "chimanimani_s2_1149.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1149",
+    "official_positive_pixels": 346
+  },
+  "chimanimani_s2_1151.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1151",
+    "official_positive_pixels": 713
+  },
+  "chimanimani_s2_1152.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1152",
+    "official_positive_pixels": 350
+  },
+  "chimanimani_s2_1156.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1156",
+    "official_positive_pixels": 102
+  },
+  "chimanimani_s2_1176.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1176",
+    "official_positive_pixels": 379
+  },
+  "chimanimani_s2_1177.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1177",
+    "official_positive_pixels": 168
+  },
+  "chimanimani_s2_1178.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1178",
+    "official_positive_pixels": 73
+  },
+  "chimanimani_s2_1180.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1180",
+    "official_positive_pixels": 181
+  },
+  "chimanimani_s2_1181.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1181",
+    "official_positive_pixels": 102
+  },
+  "chimanimani_s2_1183.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1183",
+    "official_positive_pixels": 700
+  },
+  "chimanimani_s2_1184.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1184",
+    "official_positive_pixels": 890
+  },
+  "chimanimani_s2_1190.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1190",
+    "official_positive_pixels": 1359
+  },
+  "chimanimani_s2_1191.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1191",
+    "official_positive_pixels": 262
+  },
+  "chimanimani_s2_1192.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1192",
+    "official_positive_pixels": 116
+  },
+  "chimanimani_s2_1201.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1201",
+    "official_positive_pixels": 244
+  },
+  "chimanimani_s2_1205.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1205",
+    "official_positive_pixels": 637
+  },
+  "chimanimani_s2_1207.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1207",
+    "official_positive_pixels": 293
+  },
+  "chimanimani_s2_1208.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1208",
+    "official_positive_pixels": 359
+  },
+  "chimanimani_s2_1209.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1209",
+    "official_positive_pixels": 87
+  },
+  "chimanimani_s2_1214.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1214",
+    "official_positive_pixels": 98
+  },
+  "chimanimani_s2_1216.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1216",
+    "official_positive_pixels": 62
+  },
+  "chimanimani_s2_1233.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1233",
+    "official_positive_pixels": 352
+  },
+  "chimanimani_s2_1234.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1234",
+    "official_positive_pixels": 729
+  },
+  "chimanimani_s2_1235.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1235",
+    "official_positive_pixels": 279
+  },
+  "chimanimani_s2_1238.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1238",
+    "official_positive_pixels": 344
+  },
+  "chimanimani_s2_1239.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1239",
+    "official_positive_pixels": 807
+  },
+  "chimanimani_s2_1241.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1241",
+    "official_positive_pixels": 761
+  },
+  "chimanimani_s2_1244.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1244",
+    "official_positive_pixels": 159
+  },
+  "chimanimani_s2_1247.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1247",
+    "official_positive_pixels": 2847
+  },
+  "chimanimani_s2_1248.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1248",
+    "official_positive_pixels": 1287
+  },
+  "chimanimani_s2_1249.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1249",
+    "official_positive_pixels": 247
+  },
+  "chimanimani_s2_1250.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1250",
+    "official_positive_pixels": 138
+  },
+  "chimanimani_s2_1255.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1255",
+    "official_positive_pixels": 68
+  },
+  "chimanimani_s2_1256.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1256",
+    "official_positive_pixels": 73
+  },
+  "chimanimani_s2_1262.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1262",
+    "official_positive_pixels": 523
+  },
+  "chimanimani_s2_1263.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1263",
+    "official_positive_pixels": 89
+  },
+  "chimanimani_s2_1266.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1266",
+    "official_positive_pixels": 497
+  },
+  "chimanimani_s2_1271.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1271",
+    "official_positive_pixels": 120
+  },
+  "chimanimani_s2_1290.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1290",
+    "official_positive_pixels": 182
+  },
+  "chimanimani_s2_1292.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1292",
+    "official_positive_pixels": 240
+  },
+  "chimanimani_s2_1294.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1294",
+    "official_positive_pixels": 169
+  },
+  "chimanimani_s2_1301.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1301",
+    "official_positive_pixels": 550
+  },
+  "chimanimani_s2_1303.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1303",
+    "official_positive_pixels": 121
+  },
+  "chimanimani_s2_1304.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1304",
+    "official_positive_pixels": 1188
+  },
+  "chimanimani_s2_1306.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1306",
+    "official_positive_pixels": 2106
+  },
+  "chimanimani_s2_1307.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1307",
+    "official_positive_pixels": 726
+  },
+  "chimanimani_s2_1311.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1311",
+    "official_positive_pixels": 50
+  },
+  "chimanimani_s2_1312.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1312",
+    "official_positive_pixels": 159
+  },
+  "chimanimani_s2_1313.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1313",
+    "official_positive_pixels": 330
+  },
+  "chimanimani_s2_1319.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1319",
+    "official_positive_pixels": 184
+  },
+  "chimanimani_s2_1321.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1321",
+    "official_positive_pixels": 104
+  },
+  "chimanimani_s2_1325.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1325",
+    "official_positive_pixels": 256
+  },
+  "chimanimani_s2_1326.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1326",
+    "official_positive_pixels": 497
+  },
+  "chimanimani_s2_1327.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1327",
+    "official_positive_pixels": 553
+  },
+  "chimanimani_s2_1332.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1332",
+    "official_positive_pixels": 172
+  },
+  "chimanimani_s2_1348.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1348",
+    "official_positive_pixels": 796
+  },
+  "chimanimani_s2_1352.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1352",
+    "official_positive_pixels": 138
+  },
+  "chimanimani_s2_1359.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1359",
+    "official_positive_pixels": 396
+  },
+  "chimanimani_s2_1360.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1360",
+    "official_positive_pixels": 1150
+  },
+  "chimanimani_s2_1362.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1362",
+    "official_positive_pixels": 1162
+  },
+  "chimanimani_s2_1363.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1363",
+    "official_positive_pixels": 1748
+  },
+  "chimanimani_s2_1364.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1364",
+    "official_positive_pixels": 3229
+  },
+  "chimanimani_s2_1367.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1367",
+    "official_positive_pixels": 198
+  },
+  "chimanimani_s2_1368.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1368",
+    "official_positive_pixels": 439
+  },
+  "chimanimani_s2_1370.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1370",
+    "official_positive_pixels": 63
+  },
+  "chimanimani_s2_1373.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1373",
+    "official_positive_pixels": 154
+  },
+  "chimanimani_s2_1375.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1375",
+    "official_positive_pixels": 87
+  },
+  "chimanimani_s2_1377.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1377",
+    "official_positive_pixels": 1111
+  },
+  "chimanimani_s2_1380.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1380",
+    "official_positive_pixels": 116
+  },
+  "chimanimani_s2_1384.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1384",
+    "official_positive_pixels": 52
+  },
+  "chimanimani_s2_1386.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1386",
+    "official_positive_pixels": 178
+  },
+  "chimanimani_s2_1406.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1406",
+    "official_positive_pixels": 293
+  },
+  "chimanimani_s2_1407.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1407",
+    "official_positive_pixels": 84
+  },
+  "chimanimani_s2_1416.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1416",
+    "official_positive_pixels": 122
+  },
+  "chimanimani_s2_1417.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1417",
+    "official_positive_pixels": 424
+  },
+  "chimanimani_s2_1420.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1420",
+    "official_positive_pixels": 1234
+  },
+  "chimanimani_s2_1421.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1421",
+    "official_positive_pixels": 906
+  },
+  "chimanimani_s2_1422.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1422",
+    "official_positive_pixels": 155
+  },
+  "chimanimani_s2_1428.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1428",
+    "official_positive_pixels": 1357
+  },
+  "chimanimani_s2_1429.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1429",
+    "official_positive_pixels": 122
+  },
+  "chimanimani_s2_1435.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1435",
+    "official_positive_pixels": 346
+  },
+  "chimanimani_s2_1439.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1439",
+    "official_positive_pixels": 525
+  },
+  "chimanimani_s2_1441.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1441",
+    "official_positive_pixels": 333
+  },
+  "chimanimani_s2_1464.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1464",
+    "official_positive_pixels": 129
+  },
+  "chimanimani_s2_1467.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1467",
+    "official_positive_pixels": 250
+  },
+  "chimanimani_s2_1470.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1470",
+    "official_positive_pixels": 57
+  },
+  "chimanimani_s2_1472.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1472",
+    "official_positive_pixels": 57
+  },
+  "chimanimani_s2_1474.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1474",
+    "official_positive_pixels": 103
+  },
+  "chimanimani_s2_1475.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1475",
+    "official_positive_pixels": 1591
+  },
+  "chimanimani_s2_1476.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1476",
+    "official_positive_pixels": 1185
+  },
+  "chimanimani_s2_1478.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1478",
+    "official_positive_pixels": 1508
+  },
+  "chimanimani_s2_1479.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1479",
+    "official_positive_pixels": 2546
+  },
+  "chimanimani_s2_1480.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1480",
+    "official_positive_pixels": 941
+  },
+  "chimanimani_s2_1484.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1484",
+    "official_positive_pixels": 420
+  },
+  "chimanimani_s2_1485.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1485",
+    "official_positive_pixels": 60
+  },
+  "chimanimani_s2_1487.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1487",
+    "official_positive_pixels": 1181
+  },
+  "chimanimani_s2_1488.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1488",
+    "official_positive_pixels": 137
+  },
+  "chimanimani_s2_1489.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1489",
+    "official_positive_pixels": 464
+  },
+  "chimanimani_s2_1490.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1490",
+    "official_positive_pixels": 478
+  },
+  "chimanimani_s2_1491.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1491",
+    "official_positive_pixels": 139
+  },
+  "chimanimani_s2_1492.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1492",
+    "official_positive_pixels": 895
+  },
+  "chimanimani_s2_1493.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1493",
+    "official_positive_pixels": 651
+  },
+  "chimanimani_s2_1494.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1494",
+    "official_positive_pixels": 114
+  },
+  "chimanimani_s2_1495.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1495",
+    "official_positive_pixels": 182
+  },
+  "chimanimani_s2_1496.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1496",
+    "official_positive_pixels": 844
+  },
+  "chimanimani_s2_1499.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1499",
+    "official_positive_pixels": 53
+  },
+  "chimanimani_s2_1523.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1523",
+    "official_positive_pixels": 143
+  },
+  "chimanimani_s2_1524.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1524",
+    "official_positive_pixels": 395
+  },
+  "chimanimani_s2_1536.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1536",
+    "official_positive_pixels": 1672
+  },
+  "chimanimani_s2_1538.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1538",
+    "official_positive_pixels": 2819
+  },
+  "chimanimani_s2_1539.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1539",
+    "official_positive_pixels": 883
+  },
+  "chimanimani_s2_1544.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1544",
+    "official_positive_pixels": 325
+  },
+  "chimanimani_s2_1545.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1545",
+    "official_positive_pixels": 824
+  },
+  "chimanimani_s2_1550.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1550",
+    "official_positive_pixels": 856
+  },
+  "chimanimani_s2_1552.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1552",
+    "official_positive_pixels": 111
+  },
+  "chimanimani_s2_1554.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1554",
+    "official_positive_pixels": 104
+  },
+  "chimanimani_s2_1593.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1593",
+    "official_positive_pixels": 265
+  },
+  "chimanimani_s2_1594.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1594",
+    "official_positive_pixels": 211
+  },
+  "chimanimani_s2_1597.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1597",
+    "official_positive_pixels": 1278
+  },
+  "chimanimani_s2_1607.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1607",
+    "official_positive_pixels": 967
+  },
+  "chimanimani_s2_1610.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1610",
+    "official_positive_pixels": 1466
+  },
+  "chimanimani_s2_1611.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1611",
+    "official_positive_pixels": 213
+  },
+  "chimanimani_s2_1612.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1612",
+    "official_positive_pixels": 351
+  },
+  "chimanimani_s2_1652.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1652",
+    "official_positive_pixels": 80
+  },
+  "chimanimani_s2_1654.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1654",
+    "official_positive_pixels": 66
+  },
+  "chimanimani_s2_1655.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1655",
+    "official_positive_pixels": 155
+  },
+  "chimanimani_s2_1661.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1661",
+    "official_positive_pixels": 290
+  },
+  "chimanimani_s2_1663.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1663",
+    "official_positive_pixels": 232
+  },
+  "chimanimani_s2_1664.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1664",
+    "official_positive_pixels": 900
+  },
+  "chimanimani_s2_1665.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1665",
+    "official_positive_pixels": 107
+  },
+  "chimanimani_s2_1668.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1668",
+    "official_positive_pixels": 1526
+  },
+  "chimanimani_s2_1673.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1673",
+    "official_positive_pixels": 262
+  },
+  "chimanimani_s2_1719.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1719",
+    "official_positive_pixels": 220
+  },
+  "chimanimani_s2_1729.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1729",
+    "official_positive_pixels": 2603
+  },
+  "chimanimani_s2_1754.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1754",
+    "official_positive_pixels": 94
+  },
+  "chimanimani_s2_1758.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1758",
+    "official_positive_pixels": 125
+  },
+  "chimanimani_s2_1759.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1759",
+    "official_positive_pixels": 57
+  },
+  "chimanimani_s2_1771.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1771",
+    "official_positive_pixels": 145
+  },
+  "chimanimani_s2_1772.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1772",
+    "official_positive_pixels": 147
+  },
+  "chimanimani_s2_1812.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1812",
+    "official_positive_pixels": 469
+  },
+  "chimanimani_s2_1813.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1813",
+    "official_positive_pixels": 559
+  },
+  "chimanimani_s2_1814.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1814",
+    "official_positive_pixels": 1257
+  },
+  "chimanimani_s2_1815.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1815",
+    "official_positive_pixels": 125
+  },
+  "chimanimani_s2_1818.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1818",
+    "official_positive_pixels": 650
+  },
+  "chimanimani_s2_1819.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1819",
+    "official_positive_pixels": 217
+  },
+  "chimanimani_s2_1820.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1820",
+    "official_positive_pixels": 185
+  },
+  "chimanimani_s2_1825.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1825",
+    "official_positive_pixels": 203
+  },
+  "chimanimani_s2_1827.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1827",
+    "official_positive_pixels": 860
+  },
+  "chimanimani_s2_1829.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1829",
+    "official_positive_pixels": 70
+  },
+  "chimanimani_s2_1830.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1830",
+    "official_positive_pixels": 276
+  },
+  "chimanimani_s2_1841.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1841",
+    "official_positive_pixels": 475
+  },
+  "chimanimani_s2_1842.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1842",
+    "official_positive_pixels": 107
+  },
+  "chimanimani_s2_1870.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1870",
+    "official_positive_pixels": 914
+  },
+  "chimanimani_s2_1871.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1871",
+    "official_positive_pixels": 276
+  },
+  "chimanimani_s2_1875.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1875",
+    "official_positive_pixels": 448
+  },
+  "chimanimani_s2_1876.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1876",
+    "official_positive_pixels": 1271
+  },
+  "chimanimani_s2_1881.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1881",
+    "official_positive_pixels": 648
+  },
+  "chimanimani_s2_1882.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1882",
+    "official_positive_pixels": 334
+  },
+  "chimanimani_s2_1883.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1883",
+    "official_positive_pixels": 301
+  },
+  "chimanimani_s2_1884.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1884",
+    "official_positive_pixels": 500
+  },
+  "chimanimani_s2_1885.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1885",
+    "official_positive_pixels": 1714
+  },
+  "chimanimani_s2_1886.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1886",
+    "official_positive_pixels": 124
+  },
+  "chimanimani_s2_1887.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1887",
+    "official_positive_pixels": 533
+  },
+  "chimanimani_s2_1890.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1890",
+    "official_positive_pixels": 291
+  },
+  "chimanimani_s2_1896.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1896",
+    "official_positive_pixels": 408
+  },
+  "chimanimani_s2_1898.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_1898",
+    "official_positive_pixels": 448
+  },
+  "chimanimani_s2_376.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_376",
+    "official_positive_pixels": 58
+  },
+  "chimanimani_s2_432.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_432",
+    "official_positive_pixels": 251
+  },
+  "chimanimani_s2_489.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_489",
+    "official_positive_pixels": 142
+  },
+  "chimanimani_s2_550.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_550",
+    "official_positive_pixels": 639
+  },
+  "chimanimani_s2_551.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_551",
+    "official_positive_pixels": 68
+  },
+  "chimanimani_s2_566.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_566",
+    "official_positive_pixels": 252
+  },
+  "chimanimani_s2_604.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_604",
+    "official_positive_pixels": 642
+  },
+  "chimanimani_s2_605.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_605",
+    "official_positive_pixels": 339
+  },
+  "chimanimani_s2_606.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_606",
+    "official_positive_pixels": 522
+  },
+  "chimanimani_s2_608.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_608",
+    "official_positive_pixels": 139
+  },
+  "chimanimani_s2_651.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_651",
+    "official_positive_pixels": 65
+  },
+  "chimanimani_s2_664.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_664",
+    "official_positive_pixels": 659
+  },
+  "chimanimani_s2_665.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_665",
+    "official_positive_pixels": 82
+  },
+  "chimanimani_s2_668.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_668",
+    "official_positive_pixels": 62
+  },
+  "chimanimani_s2_720.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_720",
+    "official_positive_pixels": 301
+  },
+  "chimanimani_s2_721.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_721",
+    "official_positive_pixels": 305
+  },
+  "chimanimani_s2_723.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_723",
+    "official_positive_pixels": 975
+  },
+  "chimanimani_s2_724.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_724",
+    "official_positive_pixels": 244
+  },
+  "chimanimani_s2_763.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_763",
+    "official_positive_pixels": 136
+  },
+  "chimanimani_s2_778.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_778",
+    "official_positive_pixels": 119
+  },
+  "chimanimani_s2_779.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_779",
+    "official_positive_pixels": 230
+  },
+  "chimanimani_s2_832.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_832",
+    "official_positive_pixels": 146
+  },
+  "chimanimani_s2_838.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_838",
+    "official_positive_pixels": 93
+  },
+  "chimanimani_s2_840.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_840",
+    "official_positive_pixels": 251
+  },
+  "chimanimani_s2_889.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_889",
+    "official_positive_pixels": 250
+  },
+  "chimanimani_s2_890.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_890",
+    "official_positive_pixels": 171
+  },
+  "chimanimani_s2_891.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_891",
+    "official_positive_pixels": 311
+  },
+  "chimanimani_s2_895.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_895",
+    "official_positive_pixels": 178
+  },
+  "chimanimani_s2_902.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_902",
+    "official_positive_pixels": 206
+  },
+  "chimanimani_s2_944.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_944",
+    "official_positive_pixels": 73
+  },
+  "chimanimani_s2_947.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_947",
+    "official_positive_pixels": 218
+  },
+  "chimanimani_s2_948.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_948",
+    "official_positive_pixels": 170
+  },
+  "chimanimani_s2_949.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_949",
+    "official_positive_pixels": 180
+  },
+  "chimanimani_s2_972.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_972",
+    "official_positive_pixels": 170
+  },
+  "chimanimani_s2_973.nc": {
+    "official_split": "train",
+    "official_id": "chimanimani_973",
+    "official_positive_pixels": 106
+  },
+  "chimanimani_s2_1030.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1030",
+    "official_positive_pixels": 440
+  },
+  "chimanimani_s2_1099.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1099",
+    "official_positive_pixels": 225
+  },
+  "chimanimani_s2_1150.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1150",
+    "official_positive_pixels": 879
+  },
+  "chimanimani_s2_1186.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1186",
+    "official_positive_pixels": 187
+  },
+  "chimanimani_s2_1189.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1189",
+    "official_positive_pixels": 2844
+  },
+  "chimanimani_s2_1202.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1202",
+    "official_positive_pixels": 79
+  },
+  "chimanimani_s2_1236.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1236",
+    "official_positive_pixels": 53
+  },
+  "chimanimani_s2_1240.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1240",
+    "official_positive_pixels": 581
+  },
+  "chimanimani_s2_1258.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1258",
+    "official_positive_pixels": 143
+  },
+  "chimanimani_s2_1273.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1273",
+    "official_positive_pixels": 919
+  },
+  "chimanimani_s2_1288.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1288",
+    "official_positive_pixels": 142
+  },
+  "chimanimani_s2_1293.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1293",
+    "official_positive_pixels": 635
+  },
+  "chimanimani_s2_1302.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1302",
+    "official_positive_pixels": 219
+  },
+  "chimanimani_s2_1308.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1308",
+    "official_positive_pixels": 75
+  },
+  "chimanimani_s2_1317.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1317",
+    "official_positive_pixels": 71
+  },
+  "chimanimani_s2_1324.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1324",
+    "official_positive_pixels": 386
+  },
+  "chimanimani_s2_1328.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1328",
+    "official_positive_pixels": 295
+  },
+  "chimanimani_s2_1361.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1361",
+    "official_positive_pixels": 282
+  },
+  "chimanimani_s2_1385.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1385",
+    "official_positive_pixels": 450
+  },
+  "chimanimani_s2_1426.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1426",
+    "official_positive_pixels": 174
+  },
+  "chimanimani_s2_1440.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1440",
+    "official_positive_pixels": 487
+  },
+  "chimanimani_s2_1466.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1466",
+    "official_positive_pixels": 958
+  },
+  "chimanimani_s2_1486.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1486",
+    "official_positive_pixels": 427
+  },
+  "chimanimani_s2_1497.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1497",
+    "official_positive_pixels": 443
+  },
+  "chimanimani_s2_1532.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1532",
+    "official_positive_pixels": 514
+  },
+  "chimanimani_s2_1537.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1537",
+    "official_positive_pixels": 1747
+  },
+  "chimanimani_s2_1553.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1553",
+    "official_positive_pixels": 89
+  },
+  "chimanimani_s2_1556.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1556",
+    "official_positive_pixels": 64
+  },
+  "chimanimani_s2_1592.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1592",
+    "official_positive_pixels": 291
+  },
+  "chimanimani_s2_1596.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1596",
+    "official_positive_pixels": 1081
+  },
+  "chimanimani_s2_1606.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1606",
+    "official_positive_pixels": 1670
+  },
+  "chimanimani_s2_1608.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1608",
+    "official_positive_pixels": 370
+  },
+  "chimanimani_s2_1614.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1614",
+    "official_positive_pixels": 873
+  },
+  "chimanimani_s2_1662.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1662",
+    "official_positive_pixels": 184
+  },
+  "chimanimani_s2_1669.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1669",
+    "official_positive_pixels": 662
+  },
+  "chimanimani_s2_1671.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1671",
+    "official_positive_pixels": 1620
+  },
+  "chimanimani_s2_1672.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1672",
+    "official_positive_pixels": 1523
+  },
+  "chimanimani_s2_1760.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1760",
+    "official_positive_pixels": 325
+  },
+  "chimanimani_s2_1784.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1784",
+    "official_positive_pixels": 60
+  },
+  "chimanimani_s2_1817.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1817",
+    "official_positive_pixels": 349
+  },
+  "chimanimani_s2_1840.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1840",
+    "official_positive_pixels": 125
+  },
+  "chimanimani_s2_1869.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1869",
+    "official_positive_pixels": 71
+  },
+  "chimanimani_s2_1877.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1877",
+    "official_positive_pixels": 482
+  },
+  "chimanimani_s2_1888.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_1888",
+    "official_positive_pixels": 235
+  },
+  "chimanimani_s2_506.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_506",
+    "official_positive_pixels": 86
+  },
+  "chimanimani_s2_549.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_549",
+    "official_positive_pixels": 181
+  },
+  "chimanimani_s2_663.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_663",
+    "official_positive_pixels": 391
+  },
+  "chimanimani_s2_706.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_706",
+    "official_positive_pixels": 235
+  },
+  "chimanimani_s2_782.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_782",
+    "official_positive_pixels": 89
+  },
+  "chimanimani_s2_831.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_831",
+    "official_positive_pixels": 537
+  },
+  "chimanimani_s2_833.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_833",
+    "official_positive_pixels": 283
+  },
+  "chimanimani_s2_837.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_837",
+    "official_positive_pixels": 911
+  },
+  "chimanimani_s2_839.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_839",
+    "official_positive_pixels": 397
+  },
+  "chimanimani_s2_852.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_852",
+    "official_positive_pixels": 91
+  },
+  "chimanimani_s2_945.nc": {
+    "official_split": "val",
+    "official_id": "chimanimani_945",
+    "official_positive_pixels": 98
+  },
+  "chimanimani_s2_1004.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1004",
+    "official_positive_pixels": 362
+  },
+  "chimanimani_s2_1033.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1033",
+    "official_positive_pixels": 312
+  },
+  "chimanimani_s2_1042.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1042",
+    "official_positive_pixels": 88
+  },
+  "chimanimani_s2_1043.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1043",
+    "official_positive_pixels": 217
+  },
+  "chimanimani_s2_1070.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1070",
+    "official_positive_pixels": 52
+  },
+  "chimanimani_s2_1087.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1087",
+    "official_positive_pixels": 139
+  },
+  "chimanimani_s2_1092.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1092",
+    "official_positive_pixels": 730
+  },
+  "chimanimani_s2_1182.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1182",
+    "official_positive_pixels": 189
+  },
+  "chimanimani_s2_1187.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1187",
+    "official_positive_pixels": 633
+  },
+  "chimanimani_s2_1203.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1203",
+    "official_positive_pixels": 147
+  },
+  "chimanimani_s2_1204.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1204",
+    "official_positive_pixels": 524
+  },
+  "chimanimani_s2_1215.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1215",
+    "official_positive_pixels": 82
+  },
+  "chimanimani_s2_1245.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1245",
+    "official_positive_pixels": 211
+  },
+  "chimanimani_s2_1246.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1246",
+    "official_positive_pixels": 184
+  },
+  "chimanimani_s2_1261.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1261",
+    "official_positive_pixels": 338
+  },
+  "chimanimani_s2_1267.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1267",
+    "official_positive_pixels": 503
+  },
+  "chimanimani_s2_1268.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1268",
+    "official_positive_pixels": 117
+  },
+  "chimanimani_s2_1270.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1270",
+    "official_positive_pixels": 50
+  },
+  "chimanimani_s2_1272.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1272",
+    "official_positive_pixels": 122
+  },
+  "chimanimani_s2_1274.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1274",
+    "official_positive_pixels": 272
+  },
+  "chimanimani_s2_1305.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1305",
+    "official_positive_pixels": 2205
+  },
+  "chimanimani_s2_1320.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1320",
+    "official_positive_pixels": 511
+  },
+  "chimanimani_s2_1345.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1345",
+    "official_positive_pixels": 66
+  },
+  "chimanimani_s2_1351.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1351",
+    "official_positive_pixels": 431
+  },
+  "chimanimani_s2_1365.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1365",
+    "official_positive_pixels": 411
+  },
+  "chimanimani_s2_1376.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1376",
+    "official_positive_pixels": 582
+  },
+  "chimanimani_s2_1405.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1405",
+    "official_positive_pixels": 137
+  },
+  "chimanimani_s2_1418.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1418",
+    "official_positive_pixels": 1299
+  },
+  "chimanimani_s2_1419.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1419",
+    "official_positive_pixels": 356
+  },
+  "chimanimani_s2_1434.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1434",
+    "official_positive_pixels": 53
+  },
+  "chimanimani_s2_1438.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1438",
+    "official_positive_pixels": 398
+  },
+  "chimanimani_s2_1443.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1443",
+    "official_positive_pixels": 168
+  },
+  "chimanimani_s2_1465.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1465",
+    "official_positive_pixels": 400
+  },
+  "chimanimani_s2_1477.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1477",
+    "official_positive_pixels": 1128
+  },
+  "chimanimani_s2_1498.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1498",
+    "official_positive_pixels": 955
+  },
+  "chimanimani_s2_1535.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1535",
+    "official_positive_pixels": 841
+  },
+  "chimanimani_s2_1551.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1551",
+    "official_positive_pixels": 1766
+  },
+  "chimanimani_s2_1555.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1555",
+    "official_positive_pixels": 200
+  },
+  "chimanimani_s2_1595.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1595",
+    "official_positive_pixels": 1561
+  },
+  "chimanimani_s2_1609.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1609",
+    "official_positive_pixels": 2844
+  },
+  "chimanimani_s2_1613.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1613",
+    "official_positive_pixels": 397
+  },
+  "chimanimani_s2_1615.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1615",
+    "official_positive_pixels": 582
+  },
+  "chimanimani_s2_1667.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1667",
+    "official_positive_pixels": 239
+  },
+  "chimanimani_s2_1670.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1670",
+    "official_positive_pixels": 1883
+  },
+  "chimanimani_s2_1701.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1701",
+    "official_positive_pixels": 99
+  },
+  "chimanimani_s2_1728.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1728",
+    "official_positive_pixels": 401
+  },
+  "chimanimani_s2_1730.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1730",
+    "official_positive_pixels": 221
+  },
+  "chimanimani_s2_1824.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1824",
+    "official_positive_pixels": 224
+  },
+  "chimanimani_s2_1826.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1826",
+    "official_positive_pixels": 613
+  },
+  "chimanimani_s2_1828.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1828",
+    "official_positive_pixels": 974
+  },
+  "chimanimani_s2_1837.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1837",
+    "official_positive_pixels": 70
+  },
+  "chimanimani_s2_1838.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1838",
+    "official_positive_pixels": 75
+  },
+  "chimanimani_s2_1839.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1839",
+    "official_positive_pixels": 166
+  },
+  "chimanimani_s2_1843.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1843",
+    "official_positive_pixels": 121
+  },
+  "chimanimani_s2_1872.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1872",
+    "official_positive_pixels": 167
+  },
+  "chimanimani_s2_1873.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1873",
+    "official_positive_pixels": 139
+  },
+  "chimanimani_s2_1880.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1880",
+    "official_positive_pixels": 503
+  },
+  "chimanimani_s2_1899.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_1899",
+    "official_positive_pixels": 567
+  },
+  "chimanimani_s2_374.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_374",
+    "official_positive_pixels": 149
+  },
+  "chimanimani_s2_548.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_548",
+    "official_positive_pixels": 135
+  },
+  "chimanimani_s2_607.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_607",
+    "official_positive_pixels": 460
+  },
+  "chimanimani_s2_662.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_662",
+    "official_positive_pixels": 1351
+  },
+  "chimanimani_s2_667.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_667",
+    "official_positive_pixels": 122
+  },
+  "chimanimani_s2_704.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_704",
+    "official_positive_pixels": 154
+  },
+  "chimanimani_s2_719.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_719",
+    "official_positive_pixels": 221
+  },
+  "chimanimani_s2_722.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_722",
+    "official_positive_pixels": 1152
+  },
+  "chimanimani_s2_762.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_762",
+    "official_positive_pixels": 94
+  },
+  "chimanimani_s2_770.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_770",
+    "official_positive_pixels": 100
+  },
+  "chimanimani_s2_781.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_781",
+    "official_positive_pixels": 1035
+  },
+  "chimanimani_s2_896.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_896",
+    "official_positive_pixels": 78
+  },
+  "chimanimani_s2_939.nc": {
+    "official_split": "test",
+    "official_id": "chimanimani_939",
+    "official_positive_pixels": 56
+  }
+}

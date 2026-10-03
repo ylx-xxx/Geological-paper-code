@@ -43,7 +43,7 @@ See [REPRODUCE.md](docs/REPRODUCE.md) for environment installation, data layout,
 
 ## External experiment status
 
-Historical Sen12Landslides figures are retained under `q2_extra_ablation/external_sen12_rgb/`. Their raw inputs and split manifests were not found on the inspected server, so they remain exploratory. The label budget was 40 training + 10 validation patches, not 50 optimization samples. No claim of independently reproduced external validation is made.
+Historical Sen12Landslides figures are retained under `q2_extra_ablation/external_sen12_rgb/`. A local recovery has now verified 1,133 Chimanimani Sentinel-2 files from three official Raw archives, covering all 349 regional samples in the pinned official LD split. See the [data audit](reproducibility/evidence/sen12_20261004/README.md). The historical 40-training/10-validation/210-test sample list, generating scripts and matching checkpoint remain unavailable, so the old external scores remain exploratory. No claim of independently reproduced external validation is made.
 
 ## 中文说明
 

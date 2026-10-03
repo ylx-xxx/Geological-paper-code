@@ -1,0 +1,5 @@
+{
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "test_candidate_count_uses_paths_not_other_strings (test_sen12_preparation.Sen12Preparation.test_candidate_count_uses_paths_not_other_strings) ... ok\ntest_cf_dates_cross_leap_day_and_preserve_fractional_days (test_sen12_preparation.Sen12Preparation.test_cf_dates_cross_leap_day_and_preserve_fractional_days) ... ok\ntest_repeated_official_sample_across_splits_is_rejected (test_sen12_preparation.Sen12Preparation.test_repeated_official_sample_across_splits_is_rejected) ... ok\ntest_scl_unknown_quality_does_not_imply_file_corruption (test_sen12_preparation.Sen12Preparation.test_scl_unknown_quality_does_not_imply_file_corruption) ... ok\ntest_touching_tiles_do_not_count_as_area_overlap (test_sen12_preparation.Sen12Preparation.test_touching_tiles_do_not_count_as_area_overlap) ... ok\ntest_unsafe_archive_paths_and_links_are_rejected (test_sen12_preparation.Sen12Preparation.test_unsafe_archive_paths_and_links_are_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.059s\n\nOK\n"
+}

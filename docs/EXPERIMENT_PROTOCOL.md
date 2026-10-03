@@ -41,13 +41,15 @@ After inspecting the paired test results, a full14 arm was added with the same r
 
 ## Sen12 external experiment
 
-Only historical metric tables, a learning-curve CSV and figures are present locally. No Sen12 dataset, generating training/evaluation script or split manifest was found in the inspected server locations. The curve's confusion counts cover ten 128×128 patches; this is consistent with a ten-patch validation set but does not identify those patches. The CSV's `test_miou` label cannot settle this question.
+The initial inspection found historical metric tables, a learning-curve CSV and figures, but no Sen12 dataset, generating training/evaluation script or split manifest in the inspected server locations. The curve's confusion counts cover ten 128×128 patches; this is consistent with a ten-patch validation set but does not identify those patches. The CSV's `test_miou` label cannot settle this question.
+
+Subsequent local recovery verified three official Raw/Sentinel-2 archives and extracted 1,133 Chimanimani files. They include all 349 regional candidates in the pinned official LD split; the historical 40/10/210 split is still unavailable. The archive and per-file identities, label-count agreement and quality findings are recorded in [the recovery evidence](../reproducibility/evidence/sen12_20261004/README.md). These newly recovered source files do not establish which subset or preprocessing produced the old external score.
 
 The historical label budget is 40 training + 10 validation patches, with 210 reported evaluation patches from a positive-only Chimanimani subset. The original sample IDs, channel mapping, spatial overlap, and checkpoint selection must be recovered before this can support independent external validation. No external result is silently regenerated or relabelled.
 
 ## Submission-critical remaining evidence
 
-1. Recover Sen12 inputs, split manifests and source code. Reuse the original external protocol if the split, band mapping and validation-only selection can be verified; a different named dataset is not automatically required.
+1. Use the recovered Sen12 source data to recover or reconstruct split manifests and source code. Reuse the original external protocol only if its split, band mapping and validation-only selection can be verified; a different named dataset is not automatically required.
 2. For a stronger untouched-holdout claim, freeze model/preprocessing and evaluate a genuinely unused region/event. This can be an unused region within Sen12, rather than a new named dataset. Existing TestData remains valid for disclosed benchmark comparisons; its historical feedback cannot be undone by changing labels.
 3. Add repeated seeds or spatially grouped uncertainty estimates for claims that depend on small score differences.
 4. Complete author-confirmed availability, funding, contribution and competing-interest statements in the manuscript.

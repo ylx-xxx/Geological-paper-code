@@ -1,0 +1,342 @@
+{
+  "repository": "https://huggingface.co/datasets/paulhoehn/Sen12Landslides",
+  "revision": "311f426d0e2fa9b532772fbee0641e2f9db6da00",
+  "files": [
+    {
+      "type": "file",
+      "oid": "4e4bf1f5d7f68ff7c90dfcbdefc0f9a6702ec2e2",
+      "size": 1819368779,
+      "lfs": {
+        "oid": "5161a1cb6fb8530a88763b3d2105ad1fa19b4bd1f98f55ad627d4f7093642b66",
+        "size": 1819368779,
+        "pointerSize": 135
+      },
+      "xetHash": "83bf109bd8a53f1c2b896e59cad9cbce5a77dc53d3e2b3789c0ded6407a045bb",
+      "path": "data_raw/s2/s2_part01.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "3da665ca7106fede17cd784ae56bb597612aa753",
+      "size": 1800869138,
+      "lfs": {
+        "oid": "a690fbc91abe6c29d4f3ca72163bf1ec8fabfe97781c79e7d0f00f0eeecd0226",
+        "size": 1800869138,
+        "pointerSize": 135
+      },
+      "xetHash": "0dcc5a98f8c0875dfdec4687d23e7c527afca65846287927ed04ff286dffd905",
+      "path": "data_raw/s2/s2_part02.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "7ebc570a38fd23b25230eef9a6371bb4734634b4",
+      "size": 1793472356,
+      "lfs": {
+        "oid": "622ea1eccefd49072170e2c341c9cdac049e2ab2fd135eebb02eb7afb42414c1",
+        "size": 1793472356,
+        "pointerSize": 135
+      },
+      "xetHash": "32aa22c70cac18a39cd21460d22fc92f53caad03e24454d7b2a168e378b30646",
+      "path": "data_raw/s2/s2_part03.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "0b0dace9b8ae649f2b95638e26435850c2be2ce8",
+      "size": 1509585021,
+      "lfs": {
+        "oid": "cd09fe742eac12c6a0fb02cfce34216d5fbf62bf086a74f582d140e01454ae9c",
+        "size": 1509585021,
+        "pointerSize": 135
+      },
+      "xetHash": "a57ad3991a69c66c20e1aaf1c1e3d87968dd16aa48b64214fea30e94508bfb02",
+      "path": "data_raw/s2/s2_part04.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "2bb032db2ca5e68bd6580e7bfe31f270c2484e29",
+      "size": 1681517831,
+      "lfs": {
+        "oid": "5ed058e9c70addffc6eda090d49557d03a7c4f17daa6fc9bd1cbb106b8709b5a",
+        "size": 1681517831,
+        "pointerSize": 135
+      },
+      "xetHash": "b0d18313b151ef7a1208cddca59d917402f9e953b6ff8812660cd327d7b6700e",
+      "path": "data_raw/s2/s2_part05.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "9e93ac58e1dc4eec43c71d1a4e8deed060365843",
+      "size": 1742309286,
+      "lfs": {
+        "oid": "07fa3cd6ef0f6434baaec2597bfcf38a299c8b5394e0da78f3cede1e2c2209fa",
+        "size": 1742309286,
+        "pointerSize": 135
+      },
+      "xetHash": "ddddf23216c04ea7b3d12fb7baf3ba6eceb251bf65e167e8d6a550b9dc82b3db",
+      "path": "data_raw/s2/s2_part06.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "e9b688476e85d91b552ee7473754015a51451415",
+      "size": 1784934083,
+      "lfs": {
+        "oid": "b8e70377771cc6eab9904ba8900b2277178d74c0b6861300ae656da2ec5d4842",
+        "size": 1784934083,
+        "pointerSize": 135
+      },
+      "xetHash": "d3374ad9fefbc9e976a0d30902b492c08a8a7930d957499cc972b0d709ecfa10",
+      "path": "data_raw/s2/s2_part07.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "dbc592a5a43e4f90209fd07b6db6e0624de1df7e",
+      "size": 1817406889,
+      "lfs": {
+        "oid": "48f6d8039d38806a07bdde048e51a5c993e886aefbd02f45d921d8945c2f076b",
+        "size": 1817406889,
+        "pointerSize": 135
+      },
+      "xetHash": "fbba8aa8986d00b2d3269564eade11e66eaf5bbd46980694cbc51213409d1050",
+      "path": "data_raw/s2/s2_part08.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "be56b00ce966bd4c64adb21bf0258359425bc5d4",
+      "size": 1844451578,
+      "lfs": {
+        "oid": "d24e2dbff1c42e631d9255c3fb385594536cbbbced29deb3f3522b1708f074ba",
+        "size": 1844451578,
+        "pointerSize": 135
+      },
+      "xetHash": "43c788caca0af2c80e150eb39b7ffa8243a9509f61de28c00025b504a0447a11",
+      "path": "data_raw/s2/s2_part09.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "96dc532a4c9ea3ed845c3ce43e56462ecc038301",
+      "size": 1867832160,
+      "lfs": {
+        "oid": "42c5b120d06d4a201124988e00fde9b2447a28d24a9f4b848748b36ae1fdd0e0",
+        "size": 1867832160,
+        "pointerSize": 135
+      },
+      "xetHash": "17917a42a5c365d46827b14d71bad88faa52428e0153982928ff0bb70695088b",
+      "path": "data_raw/s2/s2_part10.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "1c6a66e7b0532c219ea657fa0b10ec2d023c2781",
+      "size": 1870828608,
+      "lfs": {
+        "oid": "7719aaaf0750fe1d947fe4d3a2bf7e0caa742b0c61dce0e95b08cc850b613943",
+        "size": 1870828608,
+        "pointerSize": 135
+      },
+      "xetHash": "bff2b2503e4f3bacf5cef107aae44e903ff7c9325e50ac82e858ed14485221d4",
+      "path": "data_raw/s2/s2_part11.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "0f645e148a857de29a70025414e6349ca0035afc",
+      "size": 1862185294,
+      "lfs": {
+        "oid": "8badf593c5da10263fbcc8768766bb9f69fd2c7979a4783c6ad2990cf6e70bbc",
+        "size": 1862185294,
+        "pointerSize": 135
+      },
+      "xetHash": "074756beb261674b01bf39acc26ec79db11d6cffa07cd50a655112415b21d533",
+      "path": "data_raw/s2/s2_part12.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "1c228d8012dd32a0dcb53f11eb620c7a810d2df7",
+      "size": 1865571785,
+      "lfs": {
+        "oid": "8aecd262b2666c4a58f0575342a8f14a97f74461aeff00128f921ce18ae89546",
+        "size": 1865571785,
+        "pointerSize": 135
+      },
+      "xetHash": "f6d599ec5002bd133fba87d0d54fc76b300e589cfdfa9fb2df50b3a9907f4013",
+      "path": "data_raw/s2/s2_part13.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "37a2123acbd46268024fb67f725bc1bb05ba1f0d",
+      "size": 1872873393,
+      "lfs": {
+        "oid": "8bf7577b09e510423610ff19df9a68d2a8891e74fa154a32e5b08f2dfe612ad6",
+        "size": 1872873393,
+        "pointerSize": 135
+      },
+      "xetHash": "11328ff184194afbd778ac6dd4b8fa4056c5f02889237a75614a591452d1d5f8",
+      "path": "data_raw/s2/s2_part14.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "7e6f02ec3fcc44b17ca0c6b962f73f4191b3f197",
+      "size": 1877076191,
+      "lfs": {
+        "oid": "0841d7e1f1014da42781f82fa6205dcd09e6f3b4b827436d5285c0c49bea807f",
+        "size": 1877076191,
+        "pointerSize": 135
+      },
+      "xetHash": "dc68026239b64c4c5f509cea8f749fd4f8b83043a8b995146bacb17b8d86d143",
+      "path": "data_raw/s2/s2_part15.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "0d3457e7cae611be6f1beb481422802327776725",
+      "size": 1877314895,
+      "lfs": {
+        "oid": "add0ee77ebb920dd4e34439b280b075d7d77840ae4809ea36e5c55d8dd9f7637",
+        "size": 1877314895,
+        "pointerSize": 135
+      },
+      "xetHash": "4b29623e5a043321d19aeb68729493382aa56b7ff8fc400ed80d614839b725f9",
+      "path": "data_raw/s2/s2_part16.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "dd5e0c0caaf8c25fd294ce19a873c734f7871b55",
+      "size": 1860912554,
+      "lfs": {
+        "oid": "62be1bdf7ac8511349be5215244adff2a3f49822c470f1a22cdf6e39ae110ae1",
+        "size": 1860912554,
+        "pointerSize": 135
+      },
+      "xetHash": "9de5ffc93f36bd0b5f1950bb749dbcf16fabfb33f301a27f7313f942e3b09c56",
+      "path": "data_raw/s2/s2_part17.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "72b9a5f20e922cd05a6c862a521683858d18c37a",
+      "size": 1684511137,
+      "lfs": {
+        "oid": "b488e96609e6c16691bd03c8beefd3d0ede36df1527a87e4774f8a3af871b994",
+        "size": 1684511137,
+        "pointerSize": 135
+      },
+      "xetHash": "3d61f96d39a6fc5742319a5b1f79e00387105923a2c685cdd11e3fc0559d51ee",
+      "path": "data_raw/s2/s2_part18.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "58390ba68a91c8c8f1f9810112cac179ca156495",
+      "size": 1653496554,
+      "lfs": {
+        "oid": "361547bacfbd73f2db78166252a6fc7ec3e0dd58b1b0adedfd4ead33e28cc0d7",
+        "size": 1653496554,
+        "pointerSize": 135
+      },
+      "xetHash": "bcd1376700f766a2bee1124407802dbae530815449511495ccc1778a97ad1444",
+      "path": "data_raw/s2/s2_part19.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "5a29321c2370c8b3775ce068afd1b8744f491052",
+      "size": 1868378106,
+      "lfs": {
+        "oid": "95581373294edca83308ee54ed64b43efe859f132c100fc15929a7aef718fad2",
+        "size": 1868378106,
+        "pointerSize": 135
+      },
+      "xetHash": "6ef0f12401b2022fdcd3e06a31efedbc7900c589de24d95c7307187458082d69",
+      "path": "data_raw/s2/s2_part20.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "baffc45b82e412bcb34b6bfe07caaf91aaa42615",
+      "size": 1842018366,
+      "lfs": {
+        "oid": "a3cee16bdfdf023a0e12448608e0e89206ec4a1e9868718a18adb149d4dd8ce8",
+        "size": 1842018366,
+        "pointerSize": 135
+      },
+      "xetHash": "9f27f868280eaeb5ff5e8982f624f66cce6e193ee197da8943d6dfd2bcdbc4bc",
+      "path": "data_raw/s2/s2_part21.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "54138e9d9d62a3719a6ef14cfdee84b71988dd9e",
+      "size": 1829935685,
+      "lfs": {
+        "oid": "f999099dfdf824b84e871d0600590d8c02f7c60c49ce7b6ddd54934929437016",
+        "size": 1829935685,
+        "pointerSize": 135
+      },
+      "xetHash": "1c4ab4a0c0006291710a8f24df9cc2144c552852e4bc9036ed3cb63b9f96a64c",
+      "path": "data_raw/s2/s2_part22.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "9e97ca262ecaf5637ea09ba27c1f3bce85269fe3",
+      "size": 1838026139,
+      "lfs": {
+        "oid": "1b0dde5dc6507c10cb5953fd417db09653ed9d46447f7018dbbcd0cd8eb81154",
+        "size": 1838026139,
+        "pointerSize": 135
+      },
+      "xetHash": "ab4249637bea0467cef76a598c42d065356c4d633b6942ae86f9f7cd132afbf1",
+      "path": "data_raw/s2/s2_part23.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "97cde00a9fe0ee39cd08ec7f2f9d7bee2e9c22b3",
+      "size": 1864945840,
+      "lfs": {
+        "oid": "0d3ef5119391f6fcfc01f4e8177e3dd7e1634d255a15290d36745e39860f1a44",
+        "size": 1864945840,
+        "pointerSize": 135
+      },
+      "xetHash": "aea233a3c93b5e4232e28420616a43960f71cbd341172af1bf823b4d7855a021",
+      "path": "data_raw/s2/s2_part24.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "2d3a738ce49a70244270b7b462ca89850f75af83",
+      "size": 1783243899,
+      "lfs": {
+        "oid": "a11ecba505e6a11a1f18e206493a05bef6fc6025abb9e0a1bb13ecafc79c9e48",
+        "size": 1783243899,
+        "pointerSize": 135
+      },
+      "xetHash": "a8227e0906f3cd0a793ab9560f238517653c308b515e535e3f366cc389e7a502",
+      "path": "data_raw/s2/s2_part25.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "6bbd9871352415f04798bd986f6b3fc0a9fdbc19",
+      "size": 1589811367,
+      "lfs": {
+        "oid": "7eb1568095d8e93a48533dca331a210cc276c242e101451ff6b5204c5f76debf",
+        "size": 1589811367,
+        "pointerSize": 135
+      },
+      "xetHash": "8ee5675995d358798aba7b1b1a26ccc7a8ba414c98f1922e7f4b581bc3ec588c",
+      "path": "data_raw/s2/s2_part26.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "4d461df18224eef3d0c1fbe86a0d016ff47ab064",
+      "size": 1759282889,
+      "lfs": {
+        "oid": "ef51beac1f265ec3a1c93bbe9001e6c026a9eb39fc21ffdecbf4ce0804eba45a",
+        "size": 1759282889,
+        "pointerSize": 135
+      },
+      "xetHash": "77d4c86611a4fe4c5ef6712655a0a2623d7d4ede1b1c982a2465b3af65686a0b",
+      "path": "data_raw/s2/s2_part27.tar.gz"
+    },
+    {
+      "type": "file",
+      "oid": "6aee5202f47deeae3e69cfb591650897294afc95",
+      "size": 441861416,
+      "lfs": {
+        "oid": "b4d5a809b789d25f6370744cc601faabc5d245c10de13c38c6c8341d88a5f9cc",
+        "size": 441861416,
+        "pointerSize": 134
+      },
+      "xetHash": "7ede219a3250404eea389574faf7758d76b6bd41541c146556f7040c80759091",
+      "path": "data_raw/s2/s2_part28.tar.gz"
+    }
+  ]
+}
