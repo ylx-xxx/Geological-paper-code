@@ -1,0 +1,7 @@
+﻿set,purpose,history,identity
+LoveDA validation,source model selection,observed,source-domain logs/checkpoint
+L4S ValidData,target model selection; later included in final TrainVal gradients,observed,245-sample hash manifest
+L4S TestData,benchmark reporting and historical candidate promotion comparisons,observed; cannot restore virgin holdout status,800-sample hash manifest
+Historical Chimanimani evaluation,exploratory 210-patch evaluation,observed,original IDs and generating script not recovered
+New Chimanimani validation,40/10 adaptation protocol; select checkpoints on 10 patches,new manifest in historically explored region,frozen val_manifest.json
+Dominica Maria,"new regional assessment only, after freezing all six models",author confirms no previous regional training; excluded from current development,204-sample frozen test_manifest.json

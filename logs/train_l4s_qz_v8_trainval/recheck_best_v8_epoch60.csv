@@ -1,0 +1,2 @@
+mIoU,OA,NonLandslide_IoU,Landslide_IoU,NonLandslide_F1,Landslide_F1,NonLandslide_Precision,Landslide_Precision,NonLandslide_Recall,Landslide_Recall
+0.732786,0.986442,0.986271,0.479301,0.993088,0.64801,0.993466,0.635686,0.99271,0.660822

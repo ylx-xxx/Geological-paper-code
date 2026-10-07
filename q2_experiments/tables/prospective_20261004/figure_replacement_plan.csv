@@ -1,0 +1,6 @@
+﻿"existing_figure","candidate","action","approval"
+"figures/fig04_ablation_A_bars.pdf","02_matched_train_only","可新增统一配方比较图；历史 loss/TTA 子图保留并明确配方","pending"
+"figures/fig05_seed_stability.pdf","02_matched_train_only;02_matched_trainval","依据多种子新实验决定是否替换或放补充材料","pending"
+"figures/sen12_rgb_external_summary_clean.png","03_external_transfer;04_adaptation_validation_curves","新协议结果可替换旧的未复现外部汇总和曲线","pending"
+"figures/sen12_rgb_zeroshot_predictions.png;figures/sen12_rgb_fewshot50_predictions.png","06_external_qualitative_1;06_external_qualitative_2","零样本与微调结果并排展示，使用预先固定的样本","pending"
+"figures/fig06_confusion_matrix.pdf;figures/area_group_metrics_bar_verified.pdf;figures/montage_mixed_cases_verified.png","unchanged","原 V8 checkpoint 不变，原核验图保持原样","no_change"

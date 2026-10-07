@@ -1,0 +1,4 @@
+﻿split,samples,first_acquisition,last_acquisition,minimum_days_after_metadata_anchor,median_days_after_metadata_anchor,maximum_days_after_metadata_anchor,minimum_valid_pixel_fraction,median_valid_pixel_fraction,interpretation
+train,40,2019-03-20T00:00:00,2019-09-06T00:00:00,5.0,10.0,175.0,0.99224853515625,1.0,Post-anchor image selection; metadata anchor is not a verified landfall date. Not an immediate-response latency estimate.
+val,10,2019-03-25T00:00:00,2019-04-29T00:00:00,10.0,10.0,45.0,0.997314453125,1.0,Post-anchor image selection; metadata anchor is not a verified landfall date. Not an immediate-response latency estimate.
+test,204,2017-10-09T00:00:00,2018-03-18T00:00:00,16.0,61.0,176.0,0.86871337890625,1.0,Post-anchor image selection; metadata anchor is not a verified landfall date. Not an immediate-response latency estimate.

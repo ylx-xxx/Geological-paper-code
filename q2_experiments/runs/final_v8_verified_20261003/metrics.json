@@ -1,0 +1,21 @@
+{
+  "mode": "official_normalized_3tta_amp",
+  "Landslide_IoU": 0.47932172200799356,
+  "mIoU": 0.7327966679216756,
+  "Landslide_F1": 0.6480290458486264,
+  "Landslide_Precision": 0.6356955768169559,
+  "Landslide_Recall": 0.6608505601318623,
+  "OA": 0.9864429473876953,
+  "TP": 163581,
+  "FP": 93745,
+  "FN": 83950,
+  "TN": 12765924,
+  "samples": 800,
+  "batch_size": 64,
+  "amp": true,
+  "channels_last": true,
+  "tta_views": 3,
+  "normalization": "original Dataset: P1/P99 clipping and per-patch per-band standardization",
+  "seconds": 4.5995965003967285,
+  "count_identity_verified": true
+}

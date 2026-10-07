@@ -49,9 +49,17 @@ The historical label budget is 40 training + 10 validation patches, with 210 rep
 
 ## Submission-critical remaining evidence
 
-1. Use the recovered Sen12 source data to recover or reconstruct split manifests and source code. Reuse the original external protocol only if its split, band mapping and validation-only selection can be verified; a different named dataset is not automatically required.
-2. For a stronger untouched-holdout claim, freeze model/preprocessing and evaluate a genuinely unused region/event. This can be an unused region within Sen12, rather than a new named dataset. Existing TestData remains valid for disclosed benchmark comparisons; its historical feedback cannot be undone by changing labels.
-3. Add repeated seeds or spatially grouped uncertainty estimates for claims that depend on small score differences.
-4. Complete author-confirmed availability, funding, contribution and competing-interest statements in the manuscript.
+The [4 October experiment](PROSPECTIVE_PROTOCOL_20261004.md) now supplies 18 matched fits, three external fine-tunes, 24 evaluations, saved identities and manifests, three-seed summaries, and spatial-block uncertainty within one test event. The [complete results](../q2_experiments/runs/prospective_20261004/README.md) reconcile global counts with per-sample records. All 1,224 saved external predictions were separately checked against those records.
+
+The new RGB regional transfer improves mean IoU from 0.0031 to 0.0353 after Chimanimani adaptation. Its low absolute accuracy limits a positive generalization claim. This is not a recreation of the historical external experiment. New TrainVal runs use fixed epoch 60; the earlier statement about validation selection applies to TrainData-only runs.
+
+Remaining limits:
+
+1. Historical TestData feedback must remain disclosed. New disciplined evaluation does not restore its original independence.
+2. The old external 40/10/210 split and checkpoint remain unverified. Results from the new 40/10/204 regional protocol cannot inherit that claim or be directly compared as a replication.
+3. One event and one support draw do not establish multi-event transfer. Exact-array duplicate checks cannot exclude partial spatial overlap with incompletely georeferenced source data.
+4. The full14 transfer uses positional kernel copying, while RGB uses physical B4/B3/B2. Input and initialization effects are coupled. No ImageNet-only control isolates the added contribution of the LoveDA stage.
+5. Further method development must use development regions. Once these Dominica scores have been inspected, subsequent tuning cannot retain the same claim of a newly untouched test region.
+6. Author-confirmed availability, funding, contribution, and competing-interest statements, and all manuscript edits, remain for the author's review.
 
 This repository supports reproducibility review. It does not certify a journal quartile or guarantee acceptance.

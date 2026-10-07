@@ -1,0 +1,7 @@
+﻿model,seed,stage,background_patches,false_positive_pixels,valid_background_pixels,background_pixel_false_positive_rate,patches_with_any_false_positive
+zero_shot_s2026,2026,zero_shot,111,513,1812794,0.0002829885800592897,4
+zero_shot_s2027,2027,zero_shot,111,555,1812794,0.00030615723573665843,3
+zero_shot_s2028,2028,zero_shot,111,46,1812794,2.5375194313308628e-05,3
+few_shot_s2026,2026,few_shot,111,1942,1812794,0.001071274507748812,21
+few_shot_s2027,2027,few_shot,111,1331,1812794,0.0007342257311089953,11
+few_shot_s2028,2028,few_shot,111,1197,1812794,0.0006603066868050093,10

@@ -1,0 +1,8 @@
+﻿item,implementation,verification
+Nonfinite values,replace NaN/+Inf/-Inf with zero,legacy normalization equivalence test
+Clipping and normalization,per patch and band P1/P99; subtract clipped mean; std<1e-6 uses denominator 1,legacy equivalence and explicit RGB-band equivalence tests
+Smoothed weighted CE,sum over all class-weighted smoothed probabilities; denominator sum of weights at true class indices,numerical float64 formula test passed
+Weighted Dice,"batchwise soft Dice per class, epsilon 1e-6; class weights normalized by mean+epsilon; ignore pixels masked in both terms",numerical formula and ignored-logit invariance tests passed
+New class weights,"training-only inverse sqrt(frequency+1e-12); mean normalization; clip [0.5,2.5]",saved per-run config and training class-count records
+Historical class weights,"main current source uses epsilon 1e-8 and clip [0.5,5.0]; historical runs require their own records",new parameters must not be presented as universal historical parameters
+TTA and decision rule,original/horizontal/vertical inverse-aligned logits averaged; argmax; no threshold tuning,saved evaluation protocol and source hashes

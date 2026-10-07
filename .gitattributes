@@ -1,0 +1,3 @@
+# Frozen research records contain byte-level SHA256 identities.
+# Keep manifests and executed source snapshots unchanged on every platform.
+q2_experiments/runs/prospective_20261004/** -text

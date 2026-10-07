@@ -1,0 +1,2 @@
+mode,Landslide_IoU,mIoU,Landslide_F1,Landslide_Precision,Landslide_Recall,OA,TP,FP,FN,TN,samples,batch_size,amp,channels_last,tta_views,normalization,seconds,count_identity_verified
+official_normalized_3tta_amp,0.47932172200799356,0.7327966679216756,0.6480290458486264,0.6356955768169559,0.6608505601318623,0.9864429473876953,163581,93745,83950,12765924,800,64,True,True,3,original Dataset: P1/P99 clipping and per-patch per-band standardization,4.5995965003967285,True

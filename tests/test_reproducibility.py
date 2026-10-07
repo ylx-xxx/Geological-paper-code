@@ -43,5 +43,17 @@ class ScientificInvariants(unittest.TestCase):
         actual=resize_bias(source,torch.zeros(49,3))
         torch.testing.assert_close(actual,torch.ones(49,3)*torch.tensor([1.,2.,3.]))
         with self.assertRaises(ValueError):resize_bias(source,torch.zeros(49,4))
+    def test_extra_channel_initialization_is_controlled(self):
+        import torch
+        from reproducibility.train import patch_transfer
+        source=torch.arange(24,dtype=torch.float32).reshape(2,3,2,2)
+        target=torch.full((2,14,2,2),-7.)
+        random_extra=patch_transfer(source,target,'random')
+        mean_extra=patch_transfer(source,target,'mean')
+        torch.testing.assert_close(random_extra[:,:3],source)
+        torch.testing.assert_close(mean_extra[:,:3],source)
+        torch.testing.assert_close(random_extra[:,3:],target[:,3:])
+        torch.testing.assert_close(mean_extra[:,3:],source.mean(1,keepdim=True).expand(-1,11,-1,-1))
+        torch.testing.assert_close(target,torch.full_like(target,-7.))
 
 if __name__=='__main__':unittest.main()

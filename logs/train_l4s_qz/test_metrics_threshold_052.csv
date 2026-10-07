@@ -1,0 +1,2 @@
+threshold,mIoU,OA,NonLandslide_IoU,Landslide_IoU,NonLandslide_F1,Landslide_F1,NonLandslide_Precision,Landslide_Precision,NonLandslide_Recall,Landslide_Recall
+0.52,0.713947,0.984953,0.984771,0.443122,0.992327,0.614116,0.992946,0.595447,0.991709,0.633993

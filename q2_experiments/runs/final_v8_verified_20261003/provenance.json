@@ -1,0 +1,22 @@
+{
+  "checkpoints": {
+    "/root/autodl-tmp/checkpoints/train_l4s_qz_v8_trainval/last.pth": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65",
+    "/root/autodl-tmp/final_tune_lab/best_pool/original_v8_epoch60_locked.pth": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65",
+    "/root/autodl-tmp/final_tune_lab/best_pool/current_best.pth": "9522d4755d2d9dd3e3ec6f092e06e7531c5866ab05123636e958297201070c65"
+  },
+  "checkpoint_metadata": {
+    "epoch": 60,
+    "best_miou": 0.8379844985611515,
+    "best_landslide_iou": 0.6826409923554009
+  },
+  "model_load": "strict=True; all keys matched",
+  "torch": "2.7.0+cu128",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "code_hashes": {
+    "/root/autodl-tmp/train_l4s_qz/model.py": "8d91a7b20f08a2d2e9370a9ed21c9ef78d46555a6fb5ebc319acd0fd9b667955",
+    "/root/autodl-tmp/train_l4s_qz/dataset.py": "3bd5f65bf99d99c2da81060a42216404c21f2fccd185c9dd6ee27d3aad3d7735",
+    "/root/autodl-tmp/train_l4s_qz/test.py": "edee37b81e10d32e9f343e282171dcc6ff2940b68391228f58dfa6e4f372edae",
+    "/root/autodl-tmp/train_l4s_qz/metrics.py": "ef1057dcfcc1c125a26bb84485df2722fcbeba805353c6c9d8b2df80a9f5dddf"
+  }
+}

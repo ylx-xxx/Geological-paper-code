@@ -1,0 +1,5 @@
+﻿metric,mean_delta,sd_delta,interpretation
+Landslide_IoU,0.032212210198239645,0.006159098296190596,paired differences across three seeds on the same event; not event-level uncertainty
+Landslide_F1,0.061981822171109764,0.011470454772874809,paired differences across three seeds on the same event; not event-level uncertainty
+Landslide_Precision,0.1109063695313796,0.0168418762272723,paired differences across three seeds on the same event; not event-level uncertainty
+Landslide_Recall,0.04187959312795055,0.009599131956855056,paired differences across three seeds on the same event; not event-level uncertainty

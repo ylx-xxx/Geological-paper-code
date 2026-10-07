@@ -1,0 +1,2 @@
+threshold,min_area,morph_ksize,mIoU,OA,NonLandslide_IoU,Landslide_IoU,NonLandslide_F1,Landslide_F1,NonLandslide_Precision,Landslide_Precision,NonLandslide_Recall,Landslide_Recall
+0.52,24,3,0.713661,0.985066,0.984887,0.442434,0.992386,0.613455,0.992823,0.600046,0.991949,0.627477
