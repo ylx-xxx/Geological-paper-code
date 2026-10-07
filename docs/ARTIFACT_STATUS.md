@@ -9,4 +9,10 @@
 - `q2_extra_ablation/external_sen12_rgb/`: historical exploratory figures/tables. Source scripts, custom split identity and matching checkpoint remain unverified; these scores are not independently reproduced evidence.
 - `reproducibility/evidence/sen12_20261004/`: local Raw/Sentinel-2 data recovery, covering 1,133 regional files and all 349 pinned official LD candidates. This audit restores source data, not the historical custom experiment.
 
-Datasets, model binaries, passwords, SSH connection helpers and private manuscript drafts are excluded from publication. Existing tracked bytecode is removed from the Git index; original local files and Git history are retained.
+- `q2_experiments/runs/prospective_20261004/`: completed matched and regional experiments retained on the data disk and in a private local review package. The full histories, per-sample counts, model hashes, executed source snapshots, and prediction checks are not part of the slim public Git checkout.
+- `q2_experiments/tables/prospective_20261004/`: private local three-seed, configuration, and historical evidence tables. Aggregated values are reported in the repository README; sample-level records remain outside Git.
+- `q2_experiments/figures/prospective_20261004/`: eight locally retained candidate figures in PNG, PDF, and SVG. Qualitative sample IDs were fixed before inference; poor cases are retained. Figure inclusion in the manuscript awaits author approval.
+
+The complete evidence was downloaded locally, including all six models' external prediction masks and the eight displayed inputs. Raw datasets and NPZ arrays are not published. New checkpoint binaries remain on the server data disk; they are identified by SHA256 but are not included in this repository. Public result tables provide summary verification; full per-sample and prediction checks require the private review package. Independently repeating inference requires the data and corresponding weights, or retraining from the recorded recipe.
+
+Datasets, model binaries, passwords, SSH connection helpers and private manuscript drafts are excluded from publication. Original local files and Git history are retained.
